@@ -2,7 +2,7 @@
 function masukkanIklan(iklanId, scriptCode) {
   var iklanElemen = document.getElementById(iklanId);
   if (iklanElemen) {
-    iklanElemen.innerHTML = scriptCode;
+    iklanElemen.innerHTML = "ADA";
   }
 }
 
