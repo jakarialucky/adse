@@ -1,8 +1,8 @@
 atOptions = {
-		'key' : '06395aa5e68b179c6493e25e4df12c50',
+		'key' : 'c24f1c8a7992425b6d90f9d33bfe3793',
 		'format' : 'iframe',
 		'height' : 90,
 		'width' : 728,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://flickerbridge.com/06395aa5e68b179c6493e25e4df12c50/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://flickerbridge.com/c24f1c8a7992425b6d90f9d33bfe3793/invoke.js"></scr' + 'ipt>');
