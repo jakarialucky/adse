@@ -1,4 +1,4 @@
-alert('work');
+//alert('work');
 // Membuat fungsi untuk memasukkan skrip iklan ke elemen HTML
 function masukkanIklan(iklanId, scriptCode) {
   var iklanElemen = document.getElementById(iklanId);
