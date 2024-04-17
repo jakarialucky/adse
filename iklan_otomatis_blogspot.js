@@ -3,7 +3,7 @@ alert('work');
 function masukkanIklan(iklanId, scriptCode) {
   var iklanElemen = document.getElementById(iklanId);
   if (iklanElemen) {
-    iklanElemen.innerHTML = "ADA";
+    iklanElemen.innerHTML = scriptCode;
   }
 }
 
